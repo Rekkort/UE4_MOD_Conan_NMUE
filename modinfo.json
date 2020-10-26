@@ -1,0 +1,16 @@
+{
+	"name": "La_Main[N.M.U.E]",
+	"description": "Mod creer pour le serveur \"La_Main\" . Create for a french server \" La Main\".\nN.M.U.E : No More Unlimited Encumbrance\nDisable unlimited encumbrance gaigned at 50 perks points in encumbrance.\nDesactive le bonus d'encombrement gagne au palier 50 d'encombrement.\n",
+	"changeNote": "Edit : perks",
+	"author": "Rekkort",
+	"authorUrl": "https://steamcommunity.com/id/devils76/",
+	"versionMajor": 0,
+	"versionMinor": 0,
+	"versionBuild": 2,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "2267793277",
+	"steamVisibility": 0,
+	"folderName": "MainNMUE",
+	"revisionNumber": 253050,
+	"snapshotId": 26819
+}
